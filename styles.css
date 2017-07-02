@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.leftSide {
+    width: 80%;
+}
+
+.rightSide {
+    width: 20%;
+}
+
+.pokeInfoBox {
+    display: inline-block;
+    width: 600px;
+    height: 700px;
+    padding: 10px;
+    margin-top: 200px;
+    margin-right: 20px;
+    position: fixed;
+    top: 20;
+    right: 0;
+}
+
+#abilities {
+    display: inline;
+    
+}
+
+#moves {
+    display: inline;
+}
+
+#intro {
+    display: none;
+    margin-top: 200px;
+}
